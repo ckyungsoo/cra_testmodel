@@ -1,4 +1,3 @@
-$ conda install -c plotly plotly=5.11.0
 import streamlit as st
 import plotly as px
 import pandas as pd
